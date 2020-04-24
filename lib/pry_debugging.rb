@@ -1,5 +1,5 @@
-def plus_two(num = 3)
-	sum = num + 2
+def plus_two(3)
+	sum = 3 + 2
 	num
 
 end
